@@ -7,7 +7,7 @@ The overall goal of the code is to demonstrate the process of training text clas
 - Removes the last 10 rows from each dataset for manual testing.
 - Merges the datasets into a single DataFrame.
 
-2.Text Processing:
+2. Text Processing:
 - Defines a function (wordopt) to process text data by converting to lowercase, removing special characters, links, HTML tags, punctuation, and digits.
 - Applies the text processing function to the 'text' column in the DataFrame.
 
